@@ -62,9 +62,7 @@
     "zod": "^3.25.76",
     "@rainbow-me/rainbowkit": "^2.2.8",
     "wagmi": "^2.9.0",
-    "viem": "^2.33.0",
-    "@fhevm/solidity": "^0.1.0",
-    "@fhevm/fhevm": "^0.1.0"
+    "viem": "^2.33.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.32.0",
