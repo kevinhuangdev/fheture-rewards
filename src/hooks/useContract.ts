@@ -76,7 +76,6 @@ const CONTRACT_ABI = [
 export const useFhetureRewards = () => {
   const { address } = useAccount();
   const { writeContract } = useWriteContract();
-  const { fhevm } = useFHEVM();
 
   const createLoyaltyProgram = async (
     name: string,
